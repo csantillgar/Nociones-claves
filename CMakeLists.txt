@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.26)
-project(untitled)
+project(Nociones_claves)
 
 set(CMAKE_CXX_STANDARD 17)
 
