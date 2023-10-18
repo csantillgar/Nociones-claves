@@ -1,3 +1,5 @@
-C:/Users/cinti/Documents/GitHub/Nociones-claves/cmake-build-debug/CMakeFiles/Nociones_claves.dir
+C:/Users/cinti/Documents/GitHub/Nociones-claves/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/cinti/Documents/GitHub/Nociones-claves/cmake-build-debug/CMakeFiles/persona.dir
+C:/Users/cinti/Documents/GitHub/Nociones-claves/cmake-build-debug/CMakeFiles/estudiante.dir
 C:/Users/cinti/Documents/GitHub/Nociones-claves/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/cinti/Documents/GitHub/Nociones-claves/cmake-build-debug/CMakeFiles/rebuild_cache.dir

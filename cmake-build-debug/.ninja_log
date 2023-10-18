@@ -1,0 +1,7 @@
+# ninja log v5
+16	383	7193555438999836	CMakeFiles/estudiante.dir/estudiante.cpp.obj	38bb30f285bdc1df
+9	393	7193555438999836	CMakeFiles/persona.dir/persona.cpp.obj	7a1620982b85430
+1	404	7193555439214992	CMakeFiles/main.dir/main.cpp.obj	bb200a9ad5931bbc
+393	543	7193555440574326	libpersona.a	1c9aeb85cace60e2
+386	544	7193555440584335	libestudiante.a	b689e0cdc7c65f74
+544	684	7193555441955565	main.exe	1be84e8e1c6a8cb5

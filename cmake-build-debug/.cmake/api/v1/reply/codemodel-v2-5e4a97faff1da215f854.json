@@ -15,7 +15,9 @@
 					"source" : ".",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1,
+						2
 					]
 				}
 			],
@@ -27,10 +29,12 @@
 					[
 						0
 					],
-					"name" : "Nociones_claves",
+					"name" : "untitled",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1,
+						2
 					]
 				}
 			],
@@ -38,9 +42,23 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "Nociones_claves::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Nociones_claves-Debug-4234b7fb72167ca3d9f9.json",
-					"name" : "Nociones_claves",
+					"id" : "estudiante::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-estudiante-Debug-9c6e5570b328287a29e8.json",
+					"name" : "estudiante",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-80c104e71c995363a064.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "persona::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-persona-Debug-c557b7de724cb1815ad4.json",
+					"name" : "persona",
 					"projectIndex" : 0
 				}
 			]

@@ -157,7 +157,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=Nociones_claves
+CMAKE_PROJECT_NAME:STATIC=untitled
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/ranlib.exe
@@ -247,6 +247,15 @@ Nociones_claves_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
 Nociones_claves_SOURCE_DIR:STATIC=C:/Users/cinti/Documents/GitHub/Nociones-claves
+
+//Value Computed by CMake
+untitled_BINARY_DIR:STATIC=C:/Users/cinti/Documents/GitHub/Nociones-claves/cmake-build-debug
+
+//Value Computed by CMake
+untitled_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+untitled_SOURCE_DIR:STATIC=C:/Users/cinti/Documents/GitHub/Nociones-claves
 
 
 ########################
